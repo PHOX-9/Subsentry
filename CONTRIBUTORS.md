@@ -61,6 +61,8 @@ This project exists because of your time, effort, and curiosity.
 - **GitHub:** https://github.com/thenix09
 - **About:** First-year student at IIIT Allahabad, interested in software engineering and open-source contributions.
 
-- **Name:** Prashant kumar dwivedi
-- **GitHub:** https://github.com/dwivediprashant
-- **About:** Third-year student at LNCT Bhopal, interested in software engineering and open-source contributions.
+- **Name:** Ishan Raj Singh
+- **GitHub:** https://github.com/ishanrajsingh
+- **About:** Passionate tech enthusiast , solving complex algorithmic problems. Skilled in writing clean, efficient code, and always learning the latest tools and best practices.
+
+
