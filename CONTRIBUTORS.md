@@ -73,3 +73,7 @@ This project exists because of your time, effort, and curiosity.
 - **GitHub:** https://github.com/omicoded19
 - **About:** Sophomore at IIITA. Want to learn to contribute. Cheers !
 
+- **Name:** Ibrahim Raza Beg
+- **GitHub:** https://github.com/PHOX-9
+- **About:** Hello
+
